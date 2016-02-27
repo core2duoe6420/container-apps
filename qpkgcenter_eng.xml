@@ -381,6 +381,23 @@
 		</inspect>
 	</ctstation>
 	<ctstation>
+		<name>My Nginx</name>
+		<internalName>core2duo/nginx</internalName>
+		<version>latest</version>
+		<arch>amd64</arch>
+		<category>dockerhub</category>
+		<imageType>docker</imageType>
+		<repository>dockerhub</repository>
+		<icon>http://download.qnap.com/QPKG/images/QPKG/container/nginx_icon.png</icon>
+		<location>https://hub.docker.com/r/core2duo/nginx/</location>
+		<description>
+			<![CDATA[My Ubuntu Nginx from PPA with some tool.]]>
+		</description>
+		<inspect>
+			<![CDATA[{}]]>
+		</inspect>
+	</ctstation>
+	<ctstation>
 		<name>MongoDB</name>
 		<internalName>mongo</internalName>
 		<version>latest</version>

@@ -247,6 +247,17 @@
         "location": "https://hub.docker.com/_/nginx/", 
         "type": "docker"
     }, 
+	{
+        "description": "My Ubuntu Nginx from PPA with some tool.", 
+        "repository": "dockerhub", 
+        "arch": "amd64", 
+        "icon": "http://download.qnap.com/QPKG/images/QPKG/container/nginx_icon.png", 
+        "displayName": "My Nginx", 
+        "name": "core2duo/nginx", 
+        "version": "latest", 
+        "location": "https://hub.docker.com/r/core2duo/nginx/", 
+        "type": "docker"
+    }, 
     {
         "description": "MongoDB document databases provide high availability and easy scalability.", 
         "repository": "dockerhub", 
